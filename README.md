@@ -114,8 +114,8 @@ Evaluation Frameworks: Implementation of standardized benchmarking protocols ena
 Dataset Expansion: Ongoing efforts to incorporate additional sports categories and extended temporal coverage, with particular focus on emerging sports and international competitions that broaden the dataset's global applicability.
 
 Contact and Collaboration
-Primary Contact: Abdullah Aman Khan
-Email: abdkhan@std.uestc.edu.cn
+Primary Contact: Chandresh singh
+Email: singhchandresh0510@gmail.com
 
 We welcome collaborative opportunities with researchers working on related problems in computer vision, sports analytics, and broadcast technology. While response times may vary due to research commitments, we prioritize supporting the academic community's utilization of this resource for advancing the state-of-the-art in sports video understanding.
 
